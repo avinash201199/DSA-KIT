@@ -659,7 +659,7 @@ This repository is maintained by [Avinash Singh](https://x.com/AvinashSingh_20) 
 - Star this repo to show your support
 - Share it with fellow founders and entrepreneurs
 - Follow for updates as we add new resources
-- Join the discussion in [Issues](https://github.com/avinash201199/founders-kit/issues)
+- Join the discussion in [Issues](https://github.com/avinash201199/DSA-KIT/issues)
 
 ---
 
